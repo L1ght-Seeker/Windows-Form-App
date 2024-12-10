@@ -1,0 +1,26 @@
+D:\C++\EcoTrack\EcoTrack\bin\Debug\EcoTrack.exe.config
+D:\C++\EcoTrack\EcoTrack\bin\Debug\EcoTrack.exe
+D:\C++\EcoTrack\EcoTrack\bin\Debug\EcoTrack.pdb
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.csproj.AssemblyReference.cache
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form1.resources
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form2.resources
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form3.resources
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Properties.Resources.resources
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.csproj.GenerateResource.cache
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.csproj.CoreCompileInputs.cache
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.exe
+D:\C++\EcoTrack\EcoTrack\obj\Debug\EcoTrack.pdb
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\bin\Debug\EcoTrack.exe.config
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.exe
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.pdb
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\bin\Debug\EcoTrack.exe
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\bin\Debug\EcoTrack.pdb
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.csprojResolveAssemblyReference.cache
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form1.resources
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form2.resources
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Form3.resources
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.Properties.Resources.resources
+Z:\ИСПб-035\Овчинников\EcoTrack\EcoTrack\obj\Debug\EcoTrack.csproj.GenerateResource.Cache
+E:\Моделирование и анализ\EcoTrack\EcoTrack\bin\Debug\EcoTrack.exe.config
+E:\Моделирование и анализ\EcoTrack\EcoTrack\obj\Debug\EcoTrack.exe
+E:\Моделирование и анализ\EcoTrack\EcoTrack\obj\Debug\EcoTrack.pdb
